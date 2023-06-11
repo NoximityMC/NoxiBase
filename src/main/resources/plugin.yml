@@ -1,0 +1,8 @@
+name: NoxiBase
+version: 1.0.0
+main: com.noximity.paper.NoxiBase
+description: NoxiBase is a plugin that adds a lot of features to your server.
+load: STARTUP
+authors:
+  - MathiasClari
+api-version: "1.20"
